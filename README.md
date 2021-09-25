@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slaython
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Estágios
 - 📫 How to reach me slaython.ads@gmail.com
 

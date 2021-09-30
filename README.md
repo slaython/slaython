@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slaython
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Estágios
 - 📫 How to reach me slaython.ads@gmail.com

@@ -1,5 +1,7 @@
 Slaython Gleyson Marcelino da Silva
+
 Desenvolvedor Full Stack | PHP & JavaScript
+
 👋 Olá! Eu sou o Slaython Gleyson, desenvolvedor de software full stack com foco em criar soluções eficientes e escaláveis para diferentes necessidades de negócios e gestão. Com experiência em desenvolvimento de aplicações web e mobile, sou apaixonado por tecnologia e pelo impacto positivo que ela pode ter no mundo real.
 
 🛠️ Tecnologias e Ferramentas que utilizo:
